@@ -40,10 +40,5 @@ Files
 
 
 Author
-
 Faheema Isa Dutse
-
-Future Interns ML Intern
-## Author
-Your Name
 Future Interns ML Intern
