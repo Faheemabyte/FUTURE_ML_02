@@ -29,7 +29,7 @@ Tools and Libraries Used
 - Joblib
 
 Model Performance
-- Overall Accuracy: 70%+
+- Overall Accuracy: 75%
 - Best performing category: Technical
 - Model: Support Vector Machine (SVM)
 
