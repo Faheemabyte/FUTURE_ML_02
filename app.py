@@ -3,9 +3,9 @@ import streamlit as st
 
 @st.cache_resource
 def load_models():
-    vec = joblib.load("tfidf_vectorizer.pkl")
+    vec = joblib.load("tfidf_vectorizer (1).pkl")
     cat = joblib.load("ticket_classifier_model.pkl")
-    pri = joblib.load("ticket_priority_model.pkl")
+    pri = joblib.load("ticket_priority_model (1).pkl")
     return vec, cat, pri
 
 vec, cat_model, pri_model = load_models()
